@@ -1,0 +1,3 @@
+- I feel very confident on what I've learned about arrays thus far. I did a little bit of reading on other array methods and I definitely have a lot to learn but learning these few methods has given me some confidence in my ability to learn these methods.
+- I will likely skim through other methods listed in the ruby docs to cement my understanding and sate my curiosity but I feel pretty well equipped to do so from this lesson. 
+- This seems to be a very robust topic and I clearly still have a lot to learn. My first question that I plan to answer after this lesson is what are the most commonly used/most useful array methods as I think that will be a good starting point.
