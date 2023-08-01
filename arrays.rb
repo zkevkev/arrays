@@ -14,3 +14,5 @@ numbers.shift
 
 # Will add the integer 1 to the numbers array in index position 0. 
 numbers.unshift(1)
+
+#Index positions start at position 0 and count sequentially upward as far as elements are placed. In other words, the friends array starts with "Rocky" in index position 0 and ends with "Lib" in index position 3.
