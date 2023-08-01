@@ -15,4 +15,8 @@ numbers.shift
 # Will add the integer 1 to the numbers array in index position 0. 
 numbers.unshift(1)
 
-#Index positions start at position 0 and count sequentially upward as far as elements are placed. In other words, the friends array starts with "Rocky" in index position 0 and ends with "Lib" in index position 3.
+# Index positions start at position 0 and count sequentially upward as far as elements are placed. In other words, the friends array starts with "Rocky" in index position 0 and ends with "Lib" in index position 3.
+
+# Another useful method that can be used on arrays is the 'length' method. This method can be used to determine how many elements are contained within a given array. For example:
+friends.length
+# This code will output integer 4 because that is how many elements are contained in the friends array.
